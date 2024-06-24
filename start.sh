@@ -191,3 +191,5 @@ fi
 
 }
 install_node;
+cd
+rm start.sh
