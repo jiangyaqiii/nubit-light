@@ -187,7 +187,7 @@ EOL
     pm2 start ecosystem.config.js --env production
 fi
 
-    echo '====================== 安装完成,请退出脚本后执行 source $HOME/.bash_profile 以加载环境变量 ==========================='
+    echo '====================== 安装完成 ==========================='
 
 }
 install_node;
